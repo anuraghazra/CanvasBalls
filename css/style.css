@@ -1,5 +1,12 @@
-canvas{
-    border: 2px solid black;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+canvas {
+  outline: 2px solid black;
+  display: block;
 }
 /* div{
     background: red;
